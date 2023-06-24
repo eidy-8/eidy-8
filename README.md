@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/linkedin.com/in/enrique-onaga-3b92bb1b6](https://www.linkedin.com/in/enrique-onaga-3b92bb1b6/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/enrique-onaga-3b92bb1b6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/enrique-onaga-3b92bb1b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enrique-onaga-3b92bb1b6" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22126327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22126327" height="30" width="40" /></a>
 <a href="https://instagram.com/eidy.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eidy.8" height="30" width="40" /></a>
 </p>
