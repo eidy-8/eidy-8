@@ -1,8 +1,7 @@
-<h1 align="center">Enrique Onaga</h1>
 <h3 align="center">Full Stack Developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/znFOMXuHVkV36qzdbJ/giphy.gif?cid=ecf05e476pqjkm4gzh6s4m16zkb1cen7iikkkyxh2jurraih&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **JAVA, HTML, CSS and JavaScript**
 
 - 📫 How to reach me **enriqueonaga@gmail.com**
 
