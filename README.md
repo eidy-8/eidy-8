@@ -1,6 +1,6 @@
 <h3 align="center">Desenvolvedor Web</h3>
 
-- 🌱 Atualmente, estou usando **Angular e Java**
+- 🌱 Atualmente, estou desenvolvendo com **Angular, Express e PostgreSQL**
 
 - 📫 E-mail: **enriqueonaga@gmail.com**
 
