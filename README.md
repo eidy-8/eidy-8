@@ -1,6 +1,6 @@
-<h3 align="center">Desenvolvedor Web</h3>
+<h3 align="center">Desenvolvedor</h3>
 
-- 🌱 Atualmente, estou usando **Angular e Nest**
+- 🌱 Atualmente, estou usando **Angular, Nest e Springboot**
 
 - 📫 E-mail: **enriqueonaga@gmail.com**
 
